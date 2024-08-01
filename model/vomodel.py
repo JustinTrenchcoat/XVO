@@ -1,3 +1,4 @@
+# this is the "teacher model" mentioned in sec 3.2
 from .flownet import FlowNetS
 from .lstm import LSTM
 import torch.nn as nn

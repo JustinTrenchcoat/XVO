@@ -1,3 +1,4 @@
+# rip off of MaskFlownet.py from https://github.com/microsoft/MaskFlownet
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
